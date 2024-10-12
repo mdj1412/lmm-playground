@@ -1,0 +1,5 @@
+/wandb
+/saved_models
+/data
+/saved_models_segment_refcoco_test
+utils/__pycache__/*
