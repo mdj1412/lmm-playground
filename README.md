@@ -46,3 +46,4 @@ python phi3vision_train.py --dataset-name RefCOCO --split val --epochs 3 --save-
 * [Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks](https://arxiv.org/abs/2311.06242)
 * [Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models](https://arxiv.org/abs/2404.07973)
 * [Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook/tree/main/code/04.Finetuning)
+* [Model](https://huggingface.co/llava-hf/llama3-llava-next-8b-hf)
